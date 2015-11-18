@@ -26,7 +26,7 @@ setup(
         'cssselect',
         'lxml',
         'PyDispatcher',
-        'requests',
+        'requests >= 2.8.1',
         'db-sqlite3',
     ],
     zip_safe=True,
