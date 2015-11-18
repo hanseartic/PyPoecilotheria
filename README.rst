@@ -6,7 +6,7 @@ Installation
 ------------
 Download latest tar-ball and run setup.::
 
-    curl -o pypoeci.tar.gz -O https://codeload.github.com/hanseartic/PyPoecilotheria/tar.gz/develop
+    curl -o pypoeci.tar.gz -OL https://github.com/hanseartic/PyPoecilotheria/tarball/develop
     tar zxvf pypoeci.tar.gz
     cd PyPoecilotheria-develop/
     sudo python3 setup.py install
